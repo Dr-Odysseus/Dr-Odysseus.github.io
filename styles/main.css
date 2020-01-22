@@ -350,7 +350,7 @@
   top: 0;
   left: 8px;
   bottom: 0;
-  width: 1px;
+  width: 0px;
   background-color: #ebedef;
   opacity: 0.5;
 }
